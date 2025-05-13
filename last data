@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy</title>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p>This app is used for internal automation purposes only.</p>
+  <p>We do not collect or store any personal data.</p>
+  <p>This app connects to your Facebook/Instagram account only with your permission, and only for automation through n8n.</p>
+</body>
+</html>
