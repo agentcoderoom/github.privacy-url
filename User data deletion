@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>User Data Deletion Policy</title>
+</head>
+<body>
+  <h1>User Data Deletion Policy</h1>
+  <p>This app does not store any user data on its own servers.</p>
+  <p>If you wish to delete data associated with your use of this app (such as content posted through integrations like Facebook or Airtable), please follow these steps:</p>
+  <ul>
+    <li>For Facebook: Go to your Facebook account settings and remove the app from your connected apps list.</li>
+    <li>For Airtable or others: Revoke access from your respective integration settings.</li>
+  </ul>
+  <p>If you believe your data is being stored or misused, contact us immediately at [your-email@example.com] and we will take appropriate action within 24 hours.</p>
+</body>
+</html>
